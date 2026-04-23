@@ -1,0 +1,2 @@
+Time: 20:43:06 | Latency: 111.8986ms | Error: <nil>
+Time: 20:49:26 | Latency: 128.9702ms | Error: <nil>
